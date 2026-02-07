@@ -174,7 +174,7 @@ strategy_returns = α + β × BTC_returns + ε
 
 ### Transaction Cost Sensitivity (Full Period)
 
-![Sharpe vs Transaction Costs](Backtest_Visuals/sharpe_vs_transaction_costs.png)
+![Sharpe vs Transaction Costs](Backtest_Visuals/Strategy_vs_TC.png)
 
 **Key Observations:**
 - Momentum breakeven cost: ~35 bps (robust to realistic costs in training period)
